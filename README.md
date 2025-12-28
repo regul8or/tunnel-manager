@@ -69,3 +69,7 @@ Three independent microservices communicating via MQTT:
 - **Python 3.10+:** Available on Ubuntu 22.04 LTS, modern asyncio support
 - **Virtual environments:** `.venv` directory, not system-wide packages
 - **Standard library first:** Minimize external dependencies where possible
+
+# Attribution
+
+This project was built using AI-assisted development with Claude. I told it what to build and the AI did a lot of typing. Commits with AI contributions are marked appropriately because I'm not going to pretend otherwise.
